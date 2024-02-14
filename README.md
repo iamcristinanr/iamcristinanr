@@ -1,5 +1,5 @@
 # Hi there 👋, I am Cristina 
-I am an analyst with 5 years of experience in the energy sector. My passion and enthusiasm for technology makes me never want to stop learning.
+I am analyst with 5 years of experience in the energy sector. My passion and enthusiasm for technology makes me never want to stop learning.
 I like to work in teams, and I enjoy writing blogs about the things that I am learning.
 
 Now I am learning **Java Spring Boot**.
