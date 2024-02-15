@@ -1,5 +1,5 @@
 # Hi there 👋, I am Cristina 
-I am analyst with 5 years of experience in the energy sector. My passion and enthusiasm for technology makes me never want to stop learning.
+I am data analyst with 5 years of experience in the energy sector. My passion and enthusiasm for technology makes me never want to stop learning.
 I like to work in teams, and I enjoy writing blogs about the things that I am learning.
 
 Now I am learning **Java Spring Boot**.
@@ -28,12 +28,3 @@ Now I am learning **Java Spring Boot**.
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
 <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </h1>
-
-### - :gem: IDES
-<h1 align='center'>
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</h1>
-
-
